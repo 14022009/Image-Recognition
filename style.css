@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(11, 10, 82);
+    color: white;
+}
+
+.blist {
+    background-color: rgb(87, 87, 87);
+    color: gold;
+}
+
+#webcam_dis_d {
+    border: 2px white dotted;
+    height: 290px;
+    width: 410px;
+}
+
+.sas {
+    width: 70%;
+    font-size: 200%;
+}
+
+#objdis,
+#accdis {
+    color: yellow;
+}
